@@ -1,2 +1,2 @@
 # Greek
-Materials for the teaching of Greek 1, geared toward Hansen and Quinn's Greek: An Intensive Course
+Materials for the teaching of Greek 1, geared toward Groton's Alpha to Omega

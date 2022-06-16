@@ -1,2 +1,2 @@
 # Greek
-Materials for the teaching of Greek 1, geared toward Groton's Alpha to Omega
+Materials for the teaching of first-year Greek, geared toward Groton's Alpha to Omega
